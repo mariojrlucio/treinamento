@@ -5,7 +5,7 @@ Foi realizado o desenvolvimento de um sistema que permite ao usuário realizar o
 
 Como compilar o programa - É necessário possuir o python instalado. Também é necessário possuir uma IDE para a linguagem python, como por exemplo, pycharm ou visual studio code.
 
-Como executar o programa - Para executar o programa basta executar o arquivo "treinamento.py". 
+Como executar o programa - Para executar o programa basta executar o arquivo "treinamento.py" localizado dentro da pasta "treinamento". 
 
 Utilização do programa - Durante a execução do programa é solicitado ao usuário informar o seu nome. Logo após são listadas algumas opções ao usuário, o mesmo deve selecionar a opção desejada de acordo com a sua necessidade. 
 <br> As opções são:
